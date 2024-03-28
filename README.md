@@ -477,7 +477,7 @@ This dataset includes around 80 features related to the real estate market. Ther
 1. Evaluate the dataset, conduct cleaning, impute missing values, and deal with duplicates to obtain optimal data quality
 2. Split data into training and testing sets for model validation
 3. Create a Pipeline for efficient data and model processing
-4. Implement predictive algorithms to explore different modeling approaches using the trained model. I test different algorithms such as Decision tree, K-Nearest Neighbors Regressor - KNN, Linear Regression, Random Forest, Support Vector Regression (SVR), Lasso, and Ridge
+4. Implement predictive algorithms to explore different modeling approaches using the trained model. I test different algorithms such as Decision tree, Logistic Regression, K-Nearest Neighbors Regressor - KNN, Linear Regression, Random Forest, Support Vector Regression (SVR), Lasso, and Ridge
 5. Assessing the accuracy of the Models for each algorithm involves using appropriate metrics. Here, I utilized Root Mean Square Error (RMSE), Mean Squared Error (MSE), and Mean Absolute Error (MAE)
 6. Analyze prediction results and evaluation metrics to understand how the model is performing. If necessary, adjust the model and repeat the process
 7. Deploy the model on test data to predict housing prices
