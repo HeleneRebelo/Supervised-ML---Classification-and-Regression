@@ -2,16 +2,16 @@
 
 There are two types of tasks in Supervised Machine Learning:
 
-1. Classification: the objective is to categorize data into different classes or categories.
+1. **Classification:** the objective is to categorize data into different classes or categories.
 
-2. Regression: the objective is to predict a numerical value based on input data.
+2. **Regression:** the objective is to predict a numerical value based on input data.
 
 ## Context
 Establishing property prices is a central aspect of a real estate consultancy that serves developers, agents, and investors from different backgrounds. Property valuations are conducted by experts who adhere to strict criteria that ensure impartiality and fairness for buyers and sellers. However, challenges arise when clients question whether the appraised value truly reflects the market value of a property. To solve this, our consultancy uses a dataset of around 80 features per property from real estate transactions in Ames, Iowa.
 
 ## Main Objective
-1. Classification: Develop a model to classify houses as expensive and not expensive, for this purpose binary classification is used - “Expensive” (1) or “Not Expensive” (0) which helps in understanding accessibility and market segmentation.
-2. Regression: Predict house prices from the same database, but instead of a binary class, we have real price data. 
+1.**Classification:** Develop a model to classify houses as expensive and not expensive, for this purpose binary classification is used - “Expensive” (1) or “Not Expensive” (0) which helps in understanding accessibility and market segmentation.
+2.**Regression:** Predict house prices from the same database, but instead of a binary class, we have real price data. 
 
 ## Challenge
 Predicting house prices, since accuracy is difficult and unlikely in regression, metrics will measure how close the predictions are to actual prices.
@@ -19,6 +19,7 @@ Predicting house prices, since accuracy is difficult and unlikely in regression,
 ## Folder Structure
 
 /src_Classification: Inside this folder, you will find the Notebook with the codes for Classification.
+
 /src_Regression: Inside this folder, you will find the Notebook with the codes for Regression.
 
 ## Data Source, Cleaning and Preparation
