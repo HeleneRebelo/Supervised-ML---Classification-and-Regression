@@ -305,7 +305,7 @@ This dataset includes around 80 features related to the real estate market. Ther
     - No: No Exposure
     - NA: No Basement
 
-- **BsmtFinType1***: Rating of basement finished area
+- **BsmtFinType1**: Rating of basement finished area
     - GLQ: Good Living Quarters
     - ALQ: Average Living Quarters
     - BLQ: Below Average Living Quarters
