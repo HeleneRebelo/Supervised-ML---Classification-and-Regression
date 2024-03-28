@@ -11,6 +11,7 @@ Establishing property prices is a central aspect of a real estate consultancy th
 
 ## Main Objective
 1.**Classification:** Develop a model to classify houses as expensive and not expensive, for this purpose binary classification is used - “Expensive” (1) or “Not Expensive” (0) which helps in understanding accessibility and market segmentation.
+
 2.**Regression:** Predict house prices from the same database, but instead of a binary class, we have real price data. 
 
 ## Challenge
