@@ -232,7 +232,7 @@ This dataset includes around 80 features related to the real estate market. Ther
     - Wd Sdng: Wood Siding
     - WdShing: Wood Shingles
 
-- **Exterior2nd'': Exterior covering on house (if more than one material)
+- **Exterior2nd**: Exterior covering on house (if more than one material)
     - AsbShng: Asbestos Shingles
     - AsphShn: Asphalt Shingles
     - BrkComm: Brick Common
